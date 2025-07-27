@@ -1,0 +1,12 @@
+dropout: 0.1
+num_classes:
+- airplane
+- automobile
+- bird
+- cat
+- deer
+- dog
+- frog
+- horse
+- ship
+- truck
